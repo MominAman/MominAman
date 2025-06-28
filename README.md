@@ -1,6 +1,10 @@
-# Hey there! 👋 I am Momin Aman, a Game Designer, and Developer! 
-I am passionate about making great games of all genres, and building worlds that people want to escape to after work is my dream goal. Check out my [Portfolio Website](https://mominaman.com/), and let's connect on [LinkedIn](https://www.linkedin.com/in/mominaman/)!
+# Hey there! 👋 Hey there! I'm Momin Aman, a Software Engineer, Game Designer & Creative Technologist
+I'm passionate about building intelligent, immersive, and scalable digital experiences. My work blends AI/ML, XR, and full-stack development to create interactive systems that are both technically robust and creatively rich. From crafting immersive XR spaces to optimizing deep learning models and developing full-stack web apps, I thrive at the intersection of technology and innovation.
 
-Let's forge the future of gaming with pure enchantment! 🚀🎮
+- Check out my [Portfolio Website](https://mominaman.com/)
+- Explore my thoughts and experiments on [Medium](https://medium.com/@mominaman/)
+- Let's connect on [LinkedIn](https://www.linkedin.com/in/mominaman/)
+
+I believe the future is interactive; let’s create it together.
 
 ---
