@@ -5,6 +5,6 @@ I'm passionate about building intelligent, immersive, and scalable digital exper
 - Explore my thoughts and experiments on [Medium](https://medium.com/@mominaman/)
 - Let's connect on [LinkedIn](https://www.linkedin.com/in/mominaman/)
 
-I believe the future is interactive; let’s create it together.
+The future is interactive! 
 
 ---
